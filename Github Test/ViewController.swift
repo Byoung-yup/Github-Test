@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("추가된 부분입니다.")
+        print("신입 추가 부분입니다.")
     }
 
 
